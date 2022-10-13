@@ -20,11 +20,11 @@
 
 0:05:55 Spawner
 
-0:06:27 Proxy
+0:06:27 Hub notifies Proxy
 
-0:07:11 Redirect user
+0:07:11 Redirect user to user/[nama]
 
-0:07:17 Browser to ask hub for auth
+0:07:17 Single-user Server verifies auth with Hub
 
 [Additional reading for overview] (http://jupyterhub.readthedocs.io/en/latest/getting-started.html#overview)
 
